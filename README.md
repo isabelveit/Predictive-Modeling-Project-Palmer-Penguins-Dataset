@@ -1,6 +1,8 @@
 # 🐧 Penguin Species Classification
 Machine learning model predicting penguin species type based on penguin features from the Palmer Penguins Dataset.
 
+> Originally completed in Spring 2025. Uploaded to GitHub in November 2025 for portfolio documentation.
+
 ## Project Overview
 This project builds and evaluates classification models to determine a penguin’s species (Adelie, Chinstrap, or Gentoo) from various biological measurements such as flipper length, bill depth, and body mass.
 
